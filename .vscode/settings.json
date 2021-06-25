@@ -1,0 +1,9 @@
+{
+    "diffEditor.codeLens": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.preferredDarkColorTheme": "Visual Studio Light",
+    "editor.semanticHighlighting.enabled": true
+}
